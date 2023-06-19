@@ -1,70 +1,202 @@
-# Getting Started with Create React App
+# CoreUI Free Bootstrap Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Bootstrap%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+[![Bootstrap Admin Template](https://coreui.io/images/github/vue-free-template-3.gif)](https://coreui.io/)
 
-In the project directory, you can run:
+CoreUI Bootstrap Admin Panel Template is not another blend of 3rd parties free components and libraries. It's **the only Open Source Bootstrap Admin Dashboard Template built on the enterprise-grade hand-crafted [UI Components Library](https://github.com/coreui/coreui)** created and backed by professionals.
+**CoreUI Admin Template helps you build reliable web apps faster than before.** CoreUI offers 4 versions: [Angular](https://github.com/coreui/coreui-free-angular-admin-template), [Bootstrap](https://github.com/coreui/coreui-free-bootstrap-admin-template), [React.js](https://github.com/coreui/coreui-free-react-admin-template), and [Vue.js](https://github.com/coreui/coreui-free-vue-admin-template).
 
-### `npm start`
+Curious why I decided to create CoreUI? Please read this article: [Jack of all trades, master of none. Why Bootstrap Admin Templates suck.](https://medium.com/@lukaszholeczek/jack-of-all-trades-master-of-none-5ea53ef8a1f#.7eqx1bcd8)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Versions](#versions)
+* [CoreUI Pro](#coreui-pro)
+* [CoreUI PRO Bootstrap Admin Templates](#coreui-pro-bootstrap-admin-templates)
+* [Installation](#installation)
+* [Usage](#usage)
+* [What's included](#whats-included)
+* [Documentation](#documentation)
+* [Contributing](#contributing)
+* [Versioning](#versioning)
+* [Creators](#creators)
+* [Community](#community)
+* [Support CoreUI Development](#support-coreui-development)
+* [Copyright and license](#copyright-and-license)
 
-### `npm test`
+## Versions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+CoreUI is built on top of Bootstrap 5 and supports popular frameworks.
 
-### `npm run build`
+* [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
+* [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
+* [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
+* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## CoreUI Pro
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* 💪  [CoreUI Pro Angular Admin Template](https://coreui.io/product/angular-dashboard-template/)
+* 💪  [CoreUI Pro Bootstrap Admin Template](https://coreui.io/product/bootstrap-dashboard-template/)
+* 💪  [CoreUI Pro React Admin Template](https://coreui.io/product/react-dashboard-template/)
+* 💪  [CoreUI Pro Vue Admin Template](https://coreui.io/product/vue-dashboard-template/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## CoreUI PRO Bootstrap Admin Templates
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| Default Theme | Light Theme | Dark Theme |
+| --- | --- | --- |
+| [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/templates/coreui_pro_default_1440.webp)](https://coreui.io/product/bootstrap-dashboard-template/?theme=default) | [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/templates/coreui_pro_light_1440.webp)](https://coreui.io/product/bootstrap-dashboard-template/?theme=light)| [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/templates/coreui_pro_dark_1440.webp)](https://coreui.io/product/bootstrap-dashboard-template/?theme=dark)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| Default Theme v3 | Light Theme v3 |
+| --- | --- |
+| [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/templates/coreui_pro_default_v3_1440.webp)](https://coreui.io/product/bootstrap-dashboard-template/?theme=default-v3) | [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/templates/coreui_pro_light_v3_1440.webp)](https://coreui.io/product/bootstrap-dashboard-template/?theme=light)|
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## CoreUI Icons (522 Free icons) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital products for web or mobile app. Ready-to-use fonts and stylesheets that work with your favorite frameworks.
 
-## Learn More
+[![CoreUI Free Icons](https://coreui.io/images/icons_free_bg_set.png)](https://github.com/coreui/coreui-icons/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Download CoreUI Free Icons](https://github.com/coreui/coreui-icons/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Clone repo
 
-### Analyzing the Bundle Size
+``` bash
+# clone the repo
+$ git clone https://github.com/coreui/coreui-free-bootstrap-admin-template.git my-project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# go into app's directory
+$ cd my-project
 
-### Making a Progressive Web App
+# install app's dependencies
+$ npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Usage
 
-### Advanced Configuration
+``` bash
+# serve with hot reload at localhost:3000.
+$ npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# build for production with minification
+$ npm run build
+```
 
-### Deployment
+## What's included
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
-### `npm run build` fails to minify
+```
+free-bootstrap-admin-template/
+├── build/
+├── src/
+│   ├── assets/
+│   │   ├── brand/
+│   │   ├── favicon/
+│   │   ├── icons/
+│   │   ├── img/
+│   ├── js/
+│   ├── pug/
+│   │   ├── _layout/
+│   │   ├── _partial/
+│   │   ├── base/
+│   │   ├── buttons/
+│   │   ├── icons/
+│   │   ├── notifications/
+│   │   ├── ...
+│   │   ├── index.pug
+│   │   └── ...
+│   ├── scss/
+│   ├── vendors/
+│   └── views/
+│       ├── base/
+│       ├── buttons/
+│       ├── css/
+│       ├── icons/
+│       ├── notifications/
+│       ├── ...
+│       ├── index.html
+│       └── ...
+└── package.json
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Documentation
+
+The documentation for the CoreUI Free Bootstrap Admin Template is hosted at our website [CoreUI](https://coreui.io/)
+
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/coreui/coreui-free-bootstrap-admin-template/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Editor preferences are available in the [editor config](https://github.com/coreui/coreui-free-bootstrap-admin-template/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility,CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
+
+See [the Releases section of our project](https://github.com/coreui/coreui-free-bootstrap-admin-template/releases) for changelogs for each release version.
+
+## Creators
+
+**Łukasz Holeczek**
+
+* <https://twitter.com/lukaszholeczek>
+* <https://github.com/mrholek>
+
+**Andrzej Kopański**
+
+* <https://github.com/xidedix>
+
+## Community
+
+Get updates on CoreUI's development and chat with the project maintainers and community members.
+
+- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
+- Read and subscribe to [CoreUI Blog](https://coreui.io/blog/).
+
+## Support CoreUI Development
+
+CoreUI is an MIT-licensed open source project and is completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying the [CoreUI PRO](https://coreui.io/pricing/) or by becoming a sponsor via [Open Collective](https://opencollective.com/coreui/).
+
+<!--- StartOpenCollectiveBackers -->
+
+### Platinum Sponsors
+
+Support this project by [becoming a Platinum Sponsor](https://opencollective.com/coreui/contribute/platinum-sponsor-40959/). A large company logo will be added here with a link to your website.
+
+<a href="https://opencollective.com/coreui/contribute/platinum-sponsor-40959/checkout"><img src="https://opencollective.com/coreui/tiers/platinum-sponsor/0/avatar.svg?avatarHeight=100"></a>
+
+### Gold Sponsors
+
+Support this project by [becoming a Gold Sponsor](https://opencollective.com/coreui/contribute/gold-sponsor-40960/). A big company logo will be added here with a link to your website.
+
+<a href="https://opencollective.com/coreui/contribute/gold-sponsor-40960/checkout"><img src="https://opencollective.com/coreui/tiers/gold-sponsor/0/avatar.svg?avatarHeight=100"></a> 
+
+### Silver Sponsors
+
+Support this project by [becoming a Silver Sponsor](https://opencollective.com/coreui/contribute/silver-sponsor-40967/). A medium company logo will be added here with a link to your website.
+
+<a href="https://opencollective.com/coreui/contribute/silver-sponsor-40967/checkout"><img src="https://opencollective.com/coreui/tiers/gold-sponsor/0/avatar.svg?avatarHeight=100"></a>
+
+### Bronze Sponsors
+
+Support this project by [becoming a Bronze Sponsor](https://opencollective.com/coreui/contribute/bronze-sponsor-40966/). The company avatar will show up here with a link to your OpenCollective Profile.
+
+<a href="https://opencollective.com/coreui/contribute/bronze-sponsor-40966/checkout"><img src="https://opencollective.com/coreui/tiers/bronze-sponsor/0/avatar.svg?avatarHeight=100"></a> 
+
+### Backers
+
+Thanks to all the backers and sponsors! Support this project by [becoming a backer](https://opencollective.com/coreui/contribute/backer-40965/).
+
+<a href="https://opencollective.com/coreui/contribute/backer-40965/checkout" target="_blank" rel="noopener"><img src="https://opencollective.com/coreui/backers.svg?width=890"></a>
+
+<!--- EndOpenCollectiveBackers -->
+
+## Copyright and license
+
+copyright 2022 creativeLabs Łukasz Holeczek. Code released under [the MIT license](https://github.com/coreui/coreui-free-bootstrap-admin-template/blob/main/LICENSE).
+There is only one limitation you can't can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In past we faced some problems with persons who tried to sell CoreUI based templates.
